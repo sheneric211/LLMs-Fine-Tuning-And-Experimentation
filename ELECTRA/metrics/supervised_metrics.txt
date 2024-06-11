@@ -1,0 +1,216 @@
+Epochs: 1, Learning Rate: 2e-05, Batch Size: 1
+accuracy: 0.54
+precision: 0.7581443298969072
+recall: 0.54
+f1: 0.408024948024948
+
+Epochs: 1, Learning Rate: 2e-05, Batch Size: 4
+accuracy: 0.56
+precision: 0.6147480106100796
+recall: 0.56
+f1: 0.48964936886395516
+
+Epochs: 1, Learning Rate: 2e-05, Batch Size: 8
+accuracy: 0.63
+precision: 0.6613201663201663
+recall: 0.63
+f1: 0.6073066666666667
+
+Epochs: 1, Learning Rate: 3e-05, Batch Size: 1
+accuracy: 0.51
+precision: 0.2601
+recall: 0.51
+f1: 0.34450331125827816
+
+Epochs: 1, Learning Rate: 3e-05, Batch Size: 4
+accuracy: 0.57
+precision: 0.6456818181818181
+recall: 0.57
+f1: 0.4968203797617644
+
+Epochs: 1, Learning Rate: 3e-05, Batch Size: 8
+accuracy: 0.65
+precision: 0.6966008771929825
+recall: 0.65
+f1: 0.6245173120483227
+
+Epochs: 1, Learning Rate: 5e-05, Batch Size: 1
+accuracy: 0.51
+precision: 0.2601
+recall: 0.51
+f1: 0.34450331125827816
+
+Epochs: 1, Learning Rate: 5e-05, Batch Size: 4
+accuracy: 0.6
+precision: 0.7319713993871297
+recall: 0.6
+f1: 0.5276190476190475
+
+Epochs: 1, Learning Rate: 5e-05, Batch Size: 8
+accuracy: 0.66
+precision: 0.7048000000000001
+recall: 0.66
+f1: 0.6372458172458173
+
+Epochs: 3, Learning Rate: 2e-05, Batch Size: 1
+accuracy: 0.72
+precision: 0.7434464043419269
+recall: 0.72
+f1: 0.7116659776767258
+
+Epochs: 3, Learning Rate: 2e-05, Batch Size: 4
+accuracy: 0.73
+precision: 0.7317857142857143
+recall: 0.73
+f1: 0.7290503466988241
+
+Epochs: 3, Learning Rate: 2e-05, Batch Size: 8
+accuracy: 0.72
+precision: 0.7209696969696969
+recall: 0.72
+f1: 0.7193255720594138
+
+Epochs: 3, Learning Rate: 3e-05, Batch Size: 1
+accuracy: 0.8
+precision: 0.8003211561621839
+recall: 0.8
+f1: 0.7998397435897436
+
+Epochs: 3, Learning Rate: 3e-05, Batch Size: 4
+accuracy: 0.7
+precision: 0.7186186186186186
+recall: 0.7
+f1: 0.6948863636363636
+
+Epochs: 3, Learning Rate: 3e-05, Batch Size: 8
+accuracy: 0.67
+precision: 0.7090000000000001
+recall: 0.67
+f1: 0.6563398692810458
+
+Epochs: 3, Learning Rate: 5e-05, Batch Size: 1
+accuracy: 0.83
+precision: 0.8474166666666667
+recall: 0.83
+f1: 0.8283032563766508
+
+Epochs: 3, Learning Rate: 5e-05, Batch Size: 4
+accuracy: 0.63
+precision: 0.6999650349650349
+recall: 0.63
+f1: 0.5987509438032574
+
+Epochs: 3, Learning Rate: 5e-05, Batch Size: 8
+accuracy: 0.6
+precision: 0.691566265060241
+recall: 0.6
+f1: 0.5515151515151515
+
+Epochs: 5, Learning Rate: 2e-05, Batch Size: 1
+accuracy: 0.8
+precision: 0.8117696511139133
+recall: 0.8
+f1: 0.797564935064935
+
+Epochs: 5, Learning Rate: 2e-05, Batch Size: 4
+accuracy: 0.57
+precision: 0.7203333333333333
+recall: 0.57
+f1: 0.4889090694657389
+
+Epochs: 5, Learning Rate: 2e-05, Batch Size: 8
+accuracy: 0.6
+precision: 0.7129411764705883
+recall: 0.6
+f1: 0.5446404341926729
+
+Epochs: 5, Learning Rate: 3e-05, Batch Size: 1
+accuracy: 0.92
+precision: 0.92
+recall: 0.92
+f1: 0.92
+
+Epochs: 5, Learning Rate: 3e-05, Batch Size: 4
+accuracy: 0.66
+precision: 0.7362055335968379
+recall: 0.66
+f1: 0.6334534534534535
+
+Epochs: 5, Learning Rate: 3e-05, Batch Size: 8
+accuracy: 0.7
+precision: 0.7762666666666667
+recall: 0.7
+f1: 0.6801358234295417
+
+Epochs: 5, Learning Rate: 5e-05, Batch Size: 1
+accuracy: 0.91
+precision: 0.9239655172413793
+recall: 0.91
+f1: 0.9094302080192945
+
+Epochs: 5, Learning Rate: 5e-05, Batch Size: 4
+accuracy: 0.82
+precision: 0.8402774274905422
+recall: 0.82
+f1: 0.8178181818181818
+
+Epochs: 5, Learning Rate: 5e-05, Batch Size: 8
+accuracy: 0.85
+precision: 0.8514423076923078
+recall: 0.85
+f1: 0.8499549954995499
+
+Epochs: 10, Learning Rate: 2e-05, Batch Size: 1
+accuracy: 0.92
+precision: 0.9263030303030303
+recall: 0.92
+f1: 0.9198076923076922
+
+Epochs: 10, Learning Rate: 2e-05, Batch Size: 4
+accuracy: 0.82
+precision: 0.8388416988416989
+recall: 0.82
+f1: 0.8169155446756426
+
+Epochs: 10, Learning Rate: 2e-05, Batch Size: 8
+accuracy: 0.71
+precision: 0.735625
+recall: 0.71
+f1: 0.7002821869488536
+
+Epochs: 10, Learning Rate: 3e-05, Batch Size: 1
+accuracy: 0.9
+precision: 0.9060606060606059
+recall: 0.9
+f1: 0.8997596153846155
+
+Epochs: 10, Learning Rate: 3e-05, Batch Size: 4
+accuracy: 0.9
+precision: 0.9005620232838217
+recall: 0.9
+f1: 0.8999198717948719
+
+Epochs: 10, Learning Rate: 3e-05, Batch Size: 8
+accuracy: 0.8
+precision: 0.8117696511139133
+recall: 0.8
+f1: 0.797564935064935
+
+Epochs: 10, Learning Rate: 5e-05, Batch Size: 1
+accuracy: 0.93
+precision: 0.9316346153846154
+recall: 0.93
+f1: 0.9299789978997899
+
+Epochs: 10, Learning Rate: 5e-05, Batch Size: 4
+accuracy: 0.93
+precision: 0.9316346153846154
+recall: 0.93
+f1: 0.9299789978997899
+
+Epochs: 10, Learning Rate: 5e-05, Batch Size: 8
+accuracy: 0.9
+precision: 0.9024242424242425
+recall: 0.9
+f1: 0.8997591328783621
+

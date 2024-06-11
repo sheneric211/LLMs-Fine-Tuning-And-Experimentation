@@ -1,0 +1,5 @@
+Base Model Performance:
+accuracy: 0.91
+precision: 0.9113768115942028
+recall: 0.91
+f1: 0.9098646616541353
